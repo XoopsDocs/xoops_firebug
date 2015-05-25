@@ -32,7 +32,10 @@ Smarty debug settings will open a new window on all pages using Smarty templates
 
 As default, the Debug Mode is set to off. In order to activate Debug in XOOPS, please go to the menu:
 Preferences  System Options  General Settings:
- 
+
+
+
+![logoXoops.jpg](assets/logoXoops.jpg) 
 ***Figure 1: Selecting XOOPS General Settings***
 
 This will open the General Settings form, where you can find the options for Debug Mode:
