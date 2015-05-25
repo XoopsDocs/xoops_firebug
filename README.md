@@ -1,21 +1,19 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module XXX
+# Debugging XOOPS With FirePHP/Firebug
+
 #### for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
-© 2014 The XOOPS Project (www.xoops.org)    
+© 2015 The XOOPS Project (www.xoops.org)    
 
-## Module Purpose 
+## Document Purpose 
 
-This module is for .....
-
-![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+This document shows how to use FirePHP and Firebug to debug XOOPS
 
 # Table of Content
 
