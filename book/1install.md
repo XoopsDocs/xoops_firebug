@@ -4,7 +4,7 @@ XOOPS has three levels of debugging; PHP debug, MySQL debug and Smarty debug.
 
 If you suspect that your site may have faults there are several tools built into XOOPS that can help diagnose the problem.
 
-### 1.1 	PHP Debug
+#### 1.1 	PHP Debug
 
 The first is PHP Debug Mode that enables PHP errors to show on the screen.
 
@@ -14,7 +14,7 @@ This is the main reason for the dreaded "Blank Page" problem, which is caused by
 
 Enabling PHP debug will often result in these blank pages showing an error message instead.
 
-**1.2 	MySQL Debug**
+####1.2 	MySQL Debug
 
 The second tool is Mysql/Blocks Debug. This gives a popup out put of MySQL queries as well as other useful information.
 
@@ -22,13 +22,13 @@ With this debugging setting enabled, a window will popup after each page load, s
 
 Faulty SQL queries will be highlighted in red with a MySQL error message appended
 
-**1.3 	Smarty Debug**
+#### 1.3 	Smarty Debug
 
 The third tool built into Xoops is the Smarty Templates Debug mode. It is very useful not only for troubleshooting problems but also to assist in design of themes and templates. It shows the Smarty Variables and what they are assigned to on a given page.
 
 Smarty debug settings will open a new window on all pages using Smarty templates, showing all variables assigned to Smarty along with their values. This debug setting is useful if you know that there are no PHP errors, that the SQL queries execute successfully, but the information does not show up as expected. Quite often it is a matter of organising the information correctly for display which is only discovered by looking at the actual values in each Smarty variable. An example is information in an array, which the template is coded to take from a sub-array instead - or vice versa.
 
-**1.4 	Setting XOOPS Debugging**
+#### 1.4 	Setting XOOPS Debugging
 
 As default, the Debug Mode is set to off. In order to activate Debug in XOOPS, please go to the menu:
 Preferences  System Options  General Settings:
