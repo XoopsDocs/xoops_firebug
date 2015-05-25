@@ -45,8 +45,10 @@ The main features of Firebug:
 
 FirePHP is a Mozilla Firefox plugin/extension that merges with Firebug and enables you to log to your Firebug Console using a simple PHP method call. All data is sent via response headers and will not interfere with the content on your page, therefore it is ideally suited for AJAX development where clean JSON and XML responses are required.
  
+![Untitled-1.jpg](../assets/Untitled-6.jpg) 
+ 
 Issue these calls and this is what you will get in Firebug:
 
-![Untitled-1.jpg](../assets/Untitled-6.jpg)
+![Untitled-1.jpg](../assets/Untitled-7.jpg)
  
 ***Figure 6: FirePHP with messages in Firebug’s Console***
