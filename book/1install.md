@@ -4,7 +4,7 @@ XOOPS has three levels of debugging; PHP debug, MySQL debug and Smarty debug.
 
 If you suspect that your site may have faults there are several tools built into XOOPS that can help diagnose the problem.
 
-**1.1 	PHP Debug**
+### 1.1 	PHP Debug
 
 The first is PHP Debug Mode that enables PHP errors to show on the screen.
 
