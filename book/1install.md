@@ -63,8 +63,8 @@ There are two ways to change the XOOPS Debug Mode:
 2. You can run a MySQL query to 
 
 ```
-UPDATE XXXX_config SET conf_value=YYYY WHERE conf_modid=0 AND conf_catid=1 AND conf_name='debug_mode'```
-
+UPDATE XXXX_config SET conf_value=YYYY WHERE conf_modid=0 AND conf_catid=1 AND conf_name='debug_mode'
+```
 
 Replace XXXX with the value of XOOPS_DB_PREFIX in mainfile.php (default is "xoops").
 
@@ -97,6 +97,7 @@ Just select the right debug level that you want by keeping the “0” or replac
          * </ul>
          */
 	    /**#@-*/
-        **"debugLevel" => 0,**```
+        **"debugLevel" => 0,**
+        ```
 
 
