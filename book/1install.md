@@ -33,26 +33,28 @@ Smarty debug settings will open a new window on all pages using Smarty templates
 As default, the Debug Mode is set to off. In order to activate Debug in XOOPS, please go to the menu:
 Preferences  System Options  General Settings:
 
+![Untitled-1.jpg](../assets/Untitled-1.jpg)
 
-
-![logoXoops.jpg](assets/logoXoops.jpg) 
 ***Figure 1: Selecting XOOPS General Settings***
 
 This will open the General Settings form, where you can find the options for Debug Mode:
  
- 
+![Untitled-1.jpg](../assets/Untitled-2.jpg) 
+
 ***Figure 2: Selecting Debug Mode***
 
 Most of the time, we select the first option: “Enable debug (inline mode)”.
 Once this done, XOOPS will show all debug information at the bottom of the page:
 
+![Untitled-1.jpg](../assets/Untitled-3.jpg)
  
 ***Figure 3: Control Admin Side***
 
+![Untitled-1.jpg](../assets/Untitled-4.jpg)
  
 ***Figure 4: Front Side***
 
-**1.4.1	Changing XOOPS Debug Mode directly in the database**
+#### 1.4.1	Changing XOOPS Debug Mode directly in the database
 
 What to do when you don’t have access to the Admin to set the Debug mode there, e.g. when there are bugs that cause a “blank screen of death”?
 There are two ways to change the XOOPS Debug Mode: 
@@ -76,7 +78,7 @@ Replace YYYY (Debug Mode) with:
 
 3, for Smarty Template Debug
 
-**1.4.2	Setting Configuration**
+#### 1.4.2	Setting Configuration
 
 Now the problem is that these messages will be visible to all users. But if we don’t want that, then XOOPS offers following configuration option, stored in
 
