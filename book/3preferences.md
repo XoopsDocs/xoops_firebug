@@ -45,12 +45,17 @@ FB::warn('Warn message');
 FB::error('Error message');
 FB::trace('Trace message');
 ```
-Figure 7: Firebug with FirePHP and XOOPS debug messages
+![Untitled-1.jpg](../assets/Untitled-8.jpg)
+
+**Figure 7: Firebug with FirePHP and XOOPS debug messages**
 
 The messages from XOOPS are coming from XOOPS Debug, but XOOPS just redirects them to Firebug, so you have all debug messages conveniently in one location. 
 
+![Untitled-1.jpg](../assets/Untitled-9.jpg)
    
 **Figure 8: XOOPS Debug messages in XOOPS**
+
+![Untitled-1.jpg](../assets/Untitled-10.jpg)
 
 **Figure 9: XOOPS Debug messages in Firebug**
 
@@ -63,8 +68,10 @@ FB::log($index_admin,'this is our ModuleAdmin class'); ```
 
 This will show in Firebug as:
 
- 
+![Untitled-1.jpg](../assets/Untitled-11.jpg) 
 
 Since there is more information than the line can hold, we can just click on that line and a new window will open with all the details:
+
+![Untitled-1.jpg](../assets/Untitled-12.jpg)
  
 **Figure 10: Firebug with detailed FirePHP variable info**
