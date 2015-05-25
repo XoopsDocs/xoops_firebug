@@ -5,28 +5,28 @@
 
 #### for XOOPS 2.5.7
       
-![logoModule.png](assets/logoModule.png)
-            
 ## User Manual
 
 © 2015 The XOOPS Project (www.xoops.org)    
 
 ## Document Purpose 
 
-This document shows how to use FirePHP and Firebug to debug XOOPS
+As defined in Wikipedia, “*Debugging is a methodical process of finding and reducing the number of bugs, or defects, in a computer program or a piece of electronic hardware, thus making it behave as expected. Debugging tends to be harder when various subsystems are tightly coupled, as changes in one may cause bugs to emerge in another.*”
+
+XOOPS is a complex PHP script, and therefore when new features are added, there is always a risk that they will introduce new bugs, or break some old code.
+
+Therefore debugging is a very important activity for every XOOPS developer.
+
+Note: for this tutorial as a Test Server we are using WAMP Server from: http://www.wampserver.com/, a free and Open Source web development environment on Windows. It allows you to create web applications with Apache, PHP and the MySQL database. It also comes with PhpMyAdmin to easily manage your databases.
+
 
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
-* [Module Credits](book/9credits.md)
-* 
+* [Debugging in XOOPS](book/1install.md)
+* [Debugging Tools](book/2administration.md)
+* [PHP Debugging without XOOPS](book/3preferences.md)
+
+ 
 
 ##License:
 
