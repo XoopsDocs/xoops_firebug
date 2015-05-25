@@ -1,7 +1,6 @@
 # 2.0 External Debugging Tools
 
-**2.1 	XDebug**
-
+#### 2.1 	XDebug
 Xdebug is a PHP extension which provides debugging and profiling capabilities. 
 
 The debug information that Xdebug can provide includes the following:
@@ -21,9 +20,9 @@ Xdebug also provides:
 * capabilities to debug your scripts interactively with a debugger front-end.
 
 
-
-
 If you use WAMP Server, it comes already with xDebug:
+
+![Untitled-1.jpg](../assets/Untitled-5.jpg)
  
 ***Figure 5: WAMP Server***
 
@@ -48,5 +47,6 @@ FirePHP is a Mozilla Firefox plugin/extension that merges with Firebug and enabl
  
 Issue these calls and this is what you will get in Firebug:
 
+![Untitled-1.jpg](../assets/Untitled-6.jpg)
  
 ***Figure 6: FirePHP with messages in Firebug’s Console***
