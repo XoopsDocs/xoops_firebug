@@ -7,11 +7,11 @@
       
 ## User Manual
 
-¬© 2015 The XOOPS Project (www.xoops.org)    
+© 2015 The XOOPS Project (www.xoops.org)    
 
 ## Document Purpose 
 
-As defined in Wikipedia, ‚Äú*Debugging is a methodical process of finding and reducing the number of bugs, or defects, in a computer program or a piece of electronic hardware, thus making it behave as expected. Debugging tends to be harder when various subsystems are tightly coupled, as changes in one may cause bugs to emerge in another.*‚Äù
+As defined in Wikipedia, ì*Debugging is a methodical process of finding and reducing the number of bugs, or defects, in a computer program or a piece of electronic hardware, thus making it behave as expected. Debugging tends to be harder when various subsystems are tightly coupled, as changes in one may cause bugs to emerge in another.*î
 
 XOOPS is a complex PHP script, and therefore when new features are added, there is always a risk that they will introduce new bugs, or break some old code.
 
