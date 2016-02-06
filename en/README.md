@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Debugging XOOPS With FirePHP/Firebug
 
@@ -22,9 +22,9 @@ Note: for this tutorial as a Test Server we are using WAMP Server from: http://w
 
 # Table of Content
 
-* [Debugging in XOOPS](en/book/1install.md)
-* [Debugging Tools](en/book/2administration.md)
-* [PHP Debugging without XOOPS](en/book/3preferences.md)
+* [Debugging in XOOPS](book/1install.md)
+* [Debugging Tools](book/2administration.md)
+* [PHP Debugging without XOOPS](book/3preferences.md)
 
  
 
