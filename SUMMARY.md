@@ -1,8 +1,9 @@
-# Table of Content
+# Table of contents
 
-* [Debugging in XOOPS](en/book/1install.md)
-* [Debugging Tools](en/book/2administration.md)
-* [PHP Debugging without XOOPS](en/book/3preferences.md)
-* [Feedback](en/book/4operations.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Introduction](README.md)
+* [Debugging in XOOPS](debugging-in-xoops.md)
+* [Debugging Tools](debugging-tools.md)
+* [PHP Debugging without XOOPS](php-debugging-without-xoops.md)
+* [Feedback](feedback.md)
+* [About XOOPS CMS](about-xoops-cms.md)
 
