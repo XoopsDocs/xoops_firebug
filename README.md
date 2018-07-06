@@ -5,7 +5,7 @@
 ## Debugging XOOPS With FirePHP/Firebug
 
 #### for XOOPS 2.5.7
-
+      
 ### User Manual
 
 \(c\) 2016 XOOPS Project \([www.xoops.org](http://xoops.org)\)
@@ -25,7 +25,7 @@ Note: for this tutorial as a Test Server we are using WAMP Server from: [http://
 * [Debugging in XOOPS](debugging-in-xoops.md)
 * [Debugging Tools](debugging-tools.md)
 * [PHP Debugging without XOOPS](php-debugging-without-xoops.md)
-
+ 
 ### License:
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
@@ -33,3 +33,4 @@ Unless specified, this content is licensed under a [Creative Commons Attribution
 
 All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
